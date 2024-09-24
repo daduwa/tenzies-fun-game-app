@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.app--section{
-    background-color: #0b2434;
-    
+.app--section {
+  background-color: #0b2434;
 }
